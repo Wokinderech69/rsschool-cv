@@ -1,5 +1,5 @@
 # KOSTIANTYN CHEREDNIKOV
-![my-photo] (/images/cv_image.jpeg)
+![my-photo] (./images/cv_image.jpeg)
 ### Front-End Developer
 
 ## PERSONAL INFORMATION
@@ -161,12 +161,12 @@ export default BlogList;
 ```
 
 ## PROJECTS
-[Cards]: https://kostiantyn-cherednikov.netlify.app/cards/index.html
-[Shopping_List]: https://kostiantyn-cherednikov.netlify.app/lesson_7/index.html
-[my-root-master_backend]: https://github.com/Wokinderech69/my-root-master_backend.git
-[my-root-master_frontend]: https://github.com/Wokinderech69/my-root-master_frontend.git
-[First_website_with_HTML_and_CSS]: https://kostiantyn-cherednikov.netlify.app/lesson_13/index.html
-***
+[Cards]: (https://kostiantyn-cherednikov.netlify.app/cards/index.html)
+[Shopping_List]: (https://kostiantyn-cherednikov.netlify.app/lesson_7/index.html)
+[my-root-master_backend]: (https://github.com/Wokinderech69/my-root-master_backend.git)
+[my-root-master_frontend]: (https://github.com/Wokinderech69/my-root-master_frontend.git)
+[First_website_with_HTML_and_CSS]: (https://kostiantyn-cherednikov.netlify.app/lesson_13/index.html)
+
 ## EDUCATION AND QUALIFICATION
 * Specialist Engineer in electronics and telecommunications
 	> Kharkiv Air Force University, Kharkiv
