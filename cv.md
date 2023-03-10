@@ -1,12 +1,12 @@
 # KOSTIANTYN CHEREDNIKOV
 ![my-photo] (/images/cv_image.jpeg)
 ### Front-End Developer
-***
+
 ## PERSONAL INFORMATION
-**Address:** 21029 Vinnitsa
-**Email:** worldairsport@gmail.com
-**Phone number:** +38 097 469 27 27
-***
+* **Address:** 21029 Vinnitsa
+* **Email:** worldairsport@gmail.com
+* **Phone number:** +38 097 469 27 27
+
 ## ABOUT ME
 I really like programming.
 I studied HTML and CSS on my own and then took the Front-End Developer course at Beetroot Academy.
@@ -21,7 +21,7 @@ I am able to clearly articulate my point of view.
 Listen to the opinion of others.
 Adequately perceive criticism and be able to work on mistakes. 
 Can manage time effectively.
-***
+
 ## TECH SKILLS
 * GIT
 * BEM
@@ -47,7 +47,7 @@ Can manage time effectively.
 * Web-development
 * Adaptive layout
 * СSS Grid Layout
-***
+
 ## CODE
 
 *Example 1*
@@ -159,7 +159,7 @@ const BlogList = (props) => (
 )
 export default BlogList;
 ```
-***
+
 ## PROJECTS
 [Cards]: https://kostiantyn-cherednikov.netlify.app/cards/index.html
 [Shopping_List]: https://kostiantyn-cherednikov.netlify.app/lesson_7/index.html
@@ -169,9 +169,9 @@ export default BlogList;
 ***
 ## EDUCATION AND QUALIFICATION
 * Specialist Engineer in electronics and telecommunications
-	Kharkiv Air Force University, Kharkiv
+	> Kharkiv Air Force University, Kharkiv
 * Front-End Development 
-	Online courses in Beetroot Academy
-***
+	> Online courses in Beetroot Academy
+
 ## English
 B1 - Pre-Intermediate
