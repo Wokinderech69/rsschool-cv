@@ -161,11 +161,11 @@ export default BlogList;
 ```
 
 ## PROJECTS
-[Cards](https://kostiantyn-cherednikov.netlify.app/cards/index.html)
-[Shopping List](https://kostiantyn-cherednikov.netlify.app/lesson_7/index.html)
-[my-root-master backend](https://github.com/Wokinderech69/my-root-master_backend.git)
-[my-root-master frontend](https://github.com/Wokinderech69/my-root-master_frontend.git)
-[First website with HTML and CSS](https://kostiantyn-cherednikov.netlify.app/lesson_13/index.html)
+1. [Cards](https://kostiantyn-cherednikov.netlify.app/cards/index.html)
+2. [Shopping List](https://kostiantyn-cherednikov.netlify.app/lesson_7/index.html)
+3. [my-root-master backend](https://github.com/Wokinderech69/my-root-master_backend.git)
+4. [my-root-master frontend](https://github.com/Wokinderech69/my-root-master_frontend.git)
+5. [First website with HTML and CSS](https://kostiantyn-cherednikov.netlify.app/lesson_13/index.html)
 
 ## EDUCATION AND QUALIFICATION
 * Specialist Engineer in electronics and telecommunications
