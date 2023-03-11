@@ -1,5 +1,5 @@
 # KOSTIANTYN CHEREDNIKOV
-	![my-photo](/cv_image.jpg)
+![my-photo](/cv_image.jpg)
 ### Front-End Developer
 
 ## PERSONAL INFORMATION
