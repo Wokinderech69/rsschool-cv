@@ -23,17 +23,28 @@ Adequately perceive criticism and be able to work on mistakes.
 Can manage time effectively.
 
 ## TECH SKILLS
-* GIT			| Gulp.js
-* BEM			| Node.js
-* HTML5		| CSS/SASS
-* React		| Bootstrap
-* Figma		| XML (AJAX)
-* jQuery	| Visual Studio
-* Gatsby	| Docker desktop
-* Jekyll	| Web-development
-* Strapi	| Adaptive layout
-* Flexbox	| СSS Grid Layout
-* Next.js	| JavaScript (Basic)
+* GIT
+* BEM
+* HTML5
+* React
+* Figma
+* jQuery
+* Gatsby
+* Jekyll
+* Strapi
+* Flexbox
+* Next.js
+* Gulp.js
+* Node.js
+* CSS/SASS
+* Bootstrap
+* XML (AJAX)
+* Visual Studio
+* Docker desktop
+* Web-development
+* Adaptive layout
+* СSS Grid Layout
+* JavaScript (Basic)
 
 ## CODE
 
