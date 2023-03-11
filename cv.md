@@ -1,5 +1,5 @@
 # KOSTIANTYN CHEREDNIKOV
-<kbd>![my-photo](cv_image.jpeg)</kbd>
+<kbd>![my-photo](cv_image.jpg)</kbd>
 ### Front-End Developer
 
 ## PERSONAL INFORMATION
@@ -25,8 +25,6 @@ Can manage time effectively.
 ## TECH SKILLS
 * GIT
 * BEM
-* CSS3
-* SASS
 * HTML5
 * React
 * Figma
@@ -38,15 +36,15 @@ Can manage time effectively.
 * Next.js
 * Gulp.js
 * Node.js
+* CSS/SASS
 * Bootstrap
 * XML (AJAX)
-* JavaScript
-* CSS animation
 * Visual Studio
 * Docker desktop
 * Web-development
 * Adaptive layout
 * СSS Grid Layout
+* JavaScript (Basic)
 
 ## CODE
 
@@ -168,10 +166,11 @@ export default BlogList;
 5. [First website with HTML and CSS](https://kostiantyn-cherednikov.netlify.app/lesson_13/index.html)
 
 ## EDUCATION AND QUALIFICATION
-* Specialist Engineer in electronics and telecommunications
-	> Kharkiv Air Force University, Kharkiv
+* Bachelor Physical education and sport in educational institutions
+	> Kharkiv State Academy of physical Culture, Kharkiv
 * Front-End Development 
 	> Online courses in Beetroot Academy
 
-## English
-B1 - Pre-Intermediate
+## LANGUAGES
+* Ukraine - Native
+* English - (B1);
