@@ -5,7 +5,7 @@
 ## PERSONAL INFORMATION
 * **Address:** 21029 Vinnitsa
 * **Email:** worldairsport@gmail.com
-* **Phone number:** +38 097 469 27 27
+* **Phone number:** +38 097 927 27 27
 
 ## ABOUT ME
 I really like programming.
