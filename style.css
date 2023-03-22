@@ -5,5 +5,16 @@
 }
 
 body{
-	background-color: #f5f7fa;	
+	background-color: #f5f7fa;
+	font-family: 'Montserrat', sans-serif;
+}
+a {
+	text-decoration: none;
+	object-fit: cover;
+}
+img {
+	display: block;
+}
+.main-container {
+	display: flex;
 }
